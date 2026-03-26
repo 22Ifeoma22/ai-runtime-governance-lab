@@ -22,6 +22,11 @@ Traditional governance approaches do not adequately control these risks once sys
 
 This lab introduces a simplified runtime governance pipeline:
 
+Metric → Risk Score → Trigger → Action → Audit Log
+
+## Example Visual
+
+![Runtime Dashboard](runtime_dashboard.png)
 
 
 Where:
