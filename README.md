@@ -5,7 +5,7 @@
 
 This repository demonstrates a high-level prototype of a runtime AI governance control system.
 
-While most organisations focus on design-time AI risk (fairness, explainability, compliance), there is a critical gap at **runtime** — where AI systems operate in real-world environments and can evolve, drift, or behave unpredictably.
+While most organisations focus on design-time AI risk (fairness, explainability, compliance), there is a critical gap at **runtime** , where AI systems operate in real-world environments and can evolve, drift, or behave unpredictably.
 
 ## The Problem
 
